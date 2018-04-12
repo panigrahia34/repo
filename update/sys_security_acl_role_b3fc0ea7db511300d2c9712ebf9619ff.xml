@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-04-12 08:58:14</sys_created_on>
+        <sys_id>b3fc0ea7db511300d2c9712ebf9619ff</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_161950_akash_app_jai_ho.x_161950_akash_app.jai_ho_user</sys_name>
+        <sys_package display_value="akash application demo" source="x_161950_akash_app">68bc4aa7db511300d2c9712ebf96196a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="akash application demo">68bc4aa7db511300d2c9712ebf96196a</sys_scope>
+        <sys_security_acl display_value="x_161950_akash_app_jai_ho">bbfc0ea7db511300d2c9712ebf9619fc</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_b3fc0ea7db511300d2c9712ebf9619ff</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-04-12 08:58:14</sys_updated_on>
+        <sys_user_role display_value="x_161950_akash_app.jai_ho_user" name="x_161950_akash_app.jai_ho_user">b7fc8a27db511300d2c9712ebf9619fe</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
